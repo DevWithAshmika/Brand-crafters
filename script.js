@@ -1,4 +1,3 @@
-// 
 
 function closepreloader(){
     document.getElementById("preloader").style.display = 'none';
