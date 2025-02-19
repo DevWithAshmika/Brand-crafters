@@ -117,7 +117,7 @@ nav{
     padding: 1rem 2rem;
     font-size: 1rem;
     color: #fff;
-    background-color: #1dbf73;
+    background-color: #1e40af;
     border-radius: 25px;
     cursor: pointer;
     transition: all 0.3s ease-in-out;
@@ -125,8 +125,8 @@ nav{
 
 .btn:hover{
     background-color: #fff;
-    color: #1dbf73;
-    border-color: #1dbf73 3px solid;
+    color: #1e40af;
+    border-color: #1e40af 3px solid;
 }
 
 .container{
@@ -410,11 +410,7 @@ section .header{
 .about-us .cards .content .sci li a {
     color: white;
     font-size: 1.5rem;
-    transition: all .4s;
-}
 
-.about-us .cards .content .sci li a:hover {
-    
 }
 
 /* contact us */
@@ -513,7 +509,6 @@ section.left .contactInfo {
 }
 .messageForm input, .messageForm textarea{
 	width: 100%;
-    outline: none;
     border: 1px solid #fafafa;
     background: none;
     padding: 0.6rem 1.2rem;
@@ -722,7 +717,7 @@ footer .column > a:hover{
 
 /* Code for the footer */
 .copyright{
-    max-width: 1200px;
+    width: 100%;
     background-color: #141414;
     margin: auto;
     padding: 1rem;
